@@ -66,10 +66,10 @@ ReduceLROnPlateau
 
 **📈 Results**
 
-Accuracy: 95.06%
-Precision: 94.51%
-Recall: 95.06%
-F1 Score: 94.61%
+Accuracy: 95.06%  
+Precision: 94.51%  
+Recall: 95.06%  
+F1 Score: 94.61%  
 
 **🔮 Prediction System**
 
