@@ -79,10 +79,10 @@ The model can:
 - Predict the correct mathematical symbol
 
 **💻 Tech Stack**
--- Python
--- TensorFlow / Keras
--- OpenCV
--- NumPy
--- Matplotlib
--- Seaborn
--- Scikit-learn
+- Python
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
